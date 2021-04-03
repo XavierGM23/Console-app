@@ -1,9 +1,9 @@
 # NOTAS
-Consola interactiva en base a NODE.JS
+Interactive console based on NODE.JS
 
 ```
-La app demuestra una consola de un TODO-List en la cual se puede hacer CRUD 
-utilizando como base de datos un documento tipo JSON creados por la app misma. 
+It is a TO DO-List app made in console in which you can make CRUD
+using as a database a JSON-type document created by the app itself. 
 ```
 
 ![Emocionado](https://media1.tenor.com/images/d7a3080844f737fd4ca5514318926728/tenor.gif)
@@ -14,7 +14,7 @@ utilizando como base de datos un documento tipo JSON creados por la app misma.
 - inquirer
 - yargs
 
-## 🟠Tecnologias utilizadas:
+## 🟠Technologies used in this project:
 
 - Node.js
-- Javascript (funciones actuales > ES6)
+- Javascript (JS> ES6/ES10)
